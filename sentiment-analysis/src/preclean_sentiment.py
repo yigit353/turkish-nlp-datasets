@@ -13,10 +13,15 @@ if __name__ == '__main__':
     with open(args.input_file, 'r', encoding='utf-8') as f:
         reader = csv.reader(f)
         headers = next(reader)
-        rows.append(headers)
+        rows.append(['text', 'label'])
         for row in reader:
             text, label, source = row
             text = text.strip()
+            text = text.replace('\n', ' ')
+            text = text.replace('<br />', ' ')
+            text = text.replace('\t', ' ')
+            text = text.replace("̇", '')
+            text = text.replace(' ', ' ')
             if not text:
                 continue
             if label == 'Notr':
@@ -26,3 +31,4 @@ if __name__ == '__main__':
     with open(args.output_file, 'w', encoding='utf-8', newline='') as out:
         writer = csv.writer(out)
         writer.writerows(rows)
+
