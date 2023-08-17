@@ -28,7 +28,7 @@ if __name__ == '__main__':
 
     assert len(sentences) == len(labels)
 
-    rows = []
+    rows = [['text', 'label']]
     for sentence, label in zip(sentences, labels):
         rows.append([sentence, label])
 
