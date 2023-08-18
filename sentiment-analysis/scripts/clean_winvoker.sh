@@ -82,7 +82,7 @@ else
 fi
 
 INDICES_FILE="${OUTPUT_FILE}"
-N_FOLDS=10
+N_FOLDS=5
 SEED=12345
 OUTPUT_FILE="${DATASET_DIR}/tmp/dataset-all-preclean-balance-fold-indices.json"
 
@@ -98,7 +98,8 @@ fi
 
 FOLD_INDICES_FILE="${OUTPUT_FILE}"
 INPUT_FILE="${DATASET_DIR}/tmp/dataset-all-preclean.csv"
-OUTPUT_FILE="${DATASET_DIR}/folds/raw/train_0.csv"
+OUTPUT_DIR="${DATASET_DIR}/folds/5folds/raw"
+OUTPUT_FILE="${OUTPUT_DIR}/train_0.csv"
 
 if [ -f "${OUTPUT_FILE}" ]; then
   echo "${OUTPUT_FILE} exists."
@@ -107,11 +108,12 @@ else
   python ../src/create_folds.py \
     --input-file="${INPUT_FILE}" \
     --fold-indices-file="${FOLD_INDICES_FILE}" \
-    --output-dir="${DATASET_DIR}/folds/raw"
+    --output-dir="${OUTPUT_DIR}"
 fi
 
 INPUT_FILE="${DATASET_DIR}/tmp/dataset-all-cleaned.csv"
-OUTPUT_FILE="${DATASET_DIR}/folds/clean/train_0.csv"
+OUTPUT_DIR="${DATASET_DIR}/folds/5folds/clean"
+OUTPUT_FILE="${OUTPUT_DIR}/train_0.csv"
 
 if [ -f "${OUTPUT_FILE}" ]; then
   echo "${OUTPUT_FILE} exists."
@@ -120,5 +122,5 @@ else
   python ../src/create_folds.py \
     --input-file="${INPUT_FILE}" \
     --fold-indices-file="${FOLD_INDICES_FILE}" \
-    --output-dir="${DATASET_DIR}/folds/clean"
+    --output-dir="${OUTPUT_DIR}"
 fi
