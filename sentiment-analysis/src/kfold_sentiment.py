@@ -81,7 +81,7 @@ if __name__ == '__main__':
     if not check_result:
         exit(1)
 
-    output_path = args.indices_file.replace('-indices.json', f'-fold-indices.json')
+    output_path = args.indices_file.replace('-indices.json', f'-{args.n_folds}fold-indices.json')
     data = {"indices": []}
     with open(output_path, 'w', encoding='utf-8') as f:
         for i in range(args.n_folds):
