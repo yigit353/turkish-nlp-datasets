@@ -26,7 +26,7 @@ if __name__ == '__main__':
                         'context': context,
                         'question': question,
                         'title': title,
-                        'answers': {"text": answer_text, "answer_start": answer_start}
+                        'answers': {"text": [answer_text], "answer_start": [answer_start]}
                     })
 
     with open(args.output_file, 'w', encoding='utf-8') as f:
