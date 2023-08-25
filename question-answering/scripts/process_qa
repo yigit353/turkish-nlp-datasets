@@ -23,7 +23,7 @@ else
 fi
 
 INPUT_FILE=$OUTPUT_FILE
-OUTPUT_DIR=../datasets/THQuAD/folds/10fold/raw
+OUTPUT_DIR=../datasets/THQuAD/folds/10fold/raw/tmp
 OUTPUT_FILE=$OUTPUT_DIR/train_0.json
 
 if [ -f "$OUTPUT_FILE" ]; then
@@ -35,4 +35,31 @@ else
     --n-folds 10 \
     --seed 12345
 fi
+
+INPUT_DIR=$OUTPUT_DIR
+OUTPUT_DIR=../datasets/THQuAD/folds/10fold/raw
+for i in {0..9}
+do
+  INPUT_FILE=$INPUT_DIR/train_$i.json
+  OUTPUT_FILE=$OUTPUT_DIR/train_$i.json
+
+  if [ -f "$OUTPUT_FILE" ]; then
+    echo "$OUTPUT_FILE exists. Skipping..."
+  else
+    python ../src/convert_to_transformers.py \
+      --input-file "$INPUT_FILE" \
+      --output-file "$OUTPUT_FILE"
+  fi
+
+  INPUT_FILE=$INPUT_DIR/validation_$i.json
+  OUTPUT_FILE=$OUTPUT_DIR/validation_$i.json
+
+  if [ -f "$OUTPUT_FILE" ]; then
+    echo "$OUTPUT_FILE exists. Skipping..."
+  else
+    python ../src/convert_to_transformers.py \
+      --input-file "$INPUT_FILE" \
+      --output-file "$OUTPUT_FILE"
+  fi
+done
 
