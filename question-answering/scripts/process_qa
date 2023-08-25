@@ -1,0 +1,38 @@
+#!/bin/bash
+
+OUTPUT_FILE=../datasets/THQuAD/all-v0.1.json
+
+if [ -f "$OUTPUT_FILE" ]; then
+  echo "$OUTPUT_FILE exists. Skipping..."
+else
+  python ../src/combine_dev_train.py \
+    --train-file ../datasets/THQuAD/train-v0.1.json \
+    --dev-file ../datasets/THQuAD/dev-v0.1.json \
+    --combined-output-file $OUTPUT_FILE
+fi
+
+INPUT_FILE=$OUTPUT_FILE
+OUTPUT_FILE=../datasets/THQuAD/all-v0.1-squad.json
+
+if [ -f "$OUTPUT_FILE" ]; then
+  echo "$OUTPUT_FILE exists. Skipping..."
+else
+  python ../src/convert_to_squad.py \
+    --input-file $INPUT_FILE \
+    --output-file $OUTPUT_FILE
+fi
+
+INPUT_FILE=$OUTPUT_FILE
+OUTPUT_DIR=../datasets/THQuAD/folds/10fold/raw
+OUTPUT_FILE=$OUTPUT_DIR/train_0.json
+
+if [ -f "$OUTPUT_FILE" ]; then
+  echo "$OUTPUT_FILE exists. Skipping..."
+else
+  python ../src/folds_qa.py \
+    --input-file $INPUT_FILE \
+    --output-dir $OUTPUT_DIR \
+    --n-folds 10 \
+    --seed 12345
+fi
+
