@@ -8,7 +8,7 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
 
-    expanded_data = []
+    expanded_data = {'data': []}
     with open(args.input_file, encoding='utf-8') as f:
         data = json.load(f)
         for article in data['data']:
@@ -21,7 +21,7 @@ if __name__ == '__main__':
                     answer = qa['answers'][0]
                     answer_text = answer['text']
                     answer_start = int(answer['answer_start'])
-                    expanded_data.append({
+                    expanded_data['data'].append({
                         'id': str(qid),
                         'context': context,
                         'question': question,
