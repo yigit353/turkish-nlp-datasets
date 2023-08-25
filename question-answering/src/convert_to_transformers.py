@@ -22,11 +22,11 @@ if __name__ == '__main__':
                     answer_text = answer['text']
                     answer_start = int(answer['answer_start'])
                     expanded_data.append({
-                        'id': qid,
+                        'id': str(qid),
                         'context': context,
                         'question': question,
                         'title': title,
-                        'answers': {"answer_text": answer_text, "answer_start": answer_start}
+                        'answers': {"text": answer_text, "answer_start": answer_start}
                     })
 
     with open(args.output_file, 'w', encoding='utf-8') as f:
