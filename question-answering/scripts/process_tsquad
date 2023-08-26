@@ -1,0 +1,67 @@
+#!/bin/bash
+
+OUTPUT_FILE=../datasets/TSQuAD/tmp/all-v1.1.json
+
+if [ -f "$OUTPUT_FILE" ]; then
+  echo "$OUTPUT_FILE exists. Skipping..."
+else
+  python ../src/combine_dev_train.py \
+    --train-file ../datasets/TSQuAD/train-tr-v1.1.json \
+    --dev-file ../datasets/TSQuAD/dev-tr-v1.1.json \
+    --combined-output-file $OUTPUT_FILE
+fi
+
+INPUT_FILE=$OUTPUT_FILE
+OUTPUT_FILE=../datasets/TSQuAD/tmp/all-v1.1-squad.json
+
+if [ -f "$OUTPUT_FILE" ]; then
+  echo "$OUTPUT_FILE exists. Skipping..."
+else
+  python ../src/convert_to_squad.py \
+    --input-file $INPUT_FILE \
+    --output-file $OUTPUT_FILE
+fi
+
+INPUT_FILE=$OUTPUT_FILE
+OUTPUT_DIR=../datasets/TSQuAD/folds/10folds/raw/tmp
+OUTPUT_FILE=$OUTPUT_DIR/train_0.json
+
+mkdir -p $OUTPUT_DIR
+
+if [ -f "$OUTPUT_FILE" ]; then
+  echo "$OUTPUT_FILE exists. Skipping..."
+else
+  python ../src/folds_qa.py \
+    --input-file $INPUT_FILE \
+    --output-dir $OUTPUT_DIR \
+    --n-folds 10 \
+    --seed 12345
+fi
+
+INPUT_DIR=$OUTPUT_DIR
+OUTPUT_DIR=../datasets/TSQuAD/folds/10fold/raw
+for i in {0..9}
+do
+  INPUT_FILE=$INPUT_DIR/train_$i.json
+  OUTPUT_FILE=$OUTPUT_DIR/train_$i.json
+
+  if [ -f "$OUTPUT_FILE" ]; then
+    echo "$OUTPUT_FILE exists. Skipping..."
+  else
+    python ../src/convert_to_transformers.py \
+      --input-file "$INPUT_FILE" \
+      --output-file "$OUTPUT_FILE"
+  fi
+
+  INPUT_FILE=$INPUT_DIR/validation_$i.json
+  OUTPUT_FILE=$OUTPUT_DIR/validation_$i.json
+
+  if [ -f "$OUTPUT_FILE" ]; then
+    echo "$OUTPUT_FILE exists. Skipping..."
+  else
+    python ../src/convert_to_transformers.py \
+      --input-file "$INPUT_FILE" \
+      --output-file "$OUTPUT_FILE"
+  fi
+done
+
