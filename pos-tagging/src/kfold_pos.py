@@ -29,6 +29,6 @@ if __name__ == '__main__':
             train_data = [s for s in splits[:i] + splits[i + 1:] for s in s]
             validation_data = splits[i]
             with open(f'{args.output_dir}/train_{i}.json', 'w', encoding='utf-8') as out:
-                json.dump({'data': train_data}, out, ensure_ascii=False, indent=2)
+                json.dump(train_data, out, ensure_ascii=False, indent=2)
             with open(f'{args.output_dir}/validation_{i}.json', 'w', encoding='utf-8') as out:
-                json.dump({'data': validation_data}, out, ensure_ascii=False, indent=2)
+                json.dump(validation_data, out, ensure_ascii=False, indent=2)
