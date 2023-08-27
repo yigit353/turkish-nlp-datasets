@@ -12,7 +12,9 @@ else
     --output $OUTPUT_FILE
 fi
 
-INPUT_FILE=$OUTPUT_FILE
+ALL_FILE=$OUTPUT_FILE
+
+INPUT_FILE=$ALL_FILE
 OUTPUT_DIR=../datasets/IMST/folds/10folds/raw
 OUTPUT_FILE="$OUTPUT_DIR/train_0.json"
 
@@ -25,5 +27,21 @@ else
     --input-file "$INPUT_FILE" \
     --output-dir "$OUTPUT_DIR" \
     --n-folds 10 \
+    --seed 12345
+fi
+
+INPUT_FILE=$ALL_FILE
+OUTPUT_DIR=../datasets/IMST/folds/5folds/raw
+OUTPUT_FILE="$OUTPUT_DIR/train_0.json"
+
+mkdir -p "$OUTPUT_DIR"
+
+if [ -f "$OUTPUT_FILE" ]; then
+  echo "$OUTPUT_FILE exists. Skipping..."
+else
+  python ../src/kfold_pos.py \
+    --input-file "$INPUT_FILE" \
+    --output-dir "$OUTPUT_DIR" \
+    --n-folds 5 \
     --seed 12345
 fi
