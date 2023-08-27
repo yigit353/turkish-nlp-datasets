@@ -1,0 +1,29 @@
+#!/bin/bash
+
+OUTPUT_FILE=../datasets/IMST/tr_imst-ud-all.json
+
+if [ -f "$OUTPUT_FILE" ]; then
+  echo "$OUTPUT_FILE exists. Skipping..."
+else
+  python ../src/read_and_combine_imst.py \
+    --dev ../datasets/IMST/tr_imst-ud-dev.conllu \
+    --test ../datasets/IMST/tr_imst-ud-test.conllu \
+    --train ../datasets/IMST/tr_imst-ud-train.conllu \
+    --output $OUTPUT_FILE
+fi
+
+INPUT_FILE=$OUTPUT_FILE
+OUTPUT_DIR=../datasets/IMST/folds/10folds/raw
+OUTPUT_FILE="$OUTPUT_DIR/train_0.json"
+
+mkdir -p "$OUTPUT_DIR"
+
+if [ -f "$OUTPUT_FILE" ]; then
+  echo "$OUTPUT_FILE exists. Skipping..."
+else
+  python ../src/kfold_pos.py \
+    --input-file "$INPUT_FILE" \
+    --output-dir "$OUTPUT_DIR" \
+    --n-folds 10 \
+    --seed 12345
+fi
