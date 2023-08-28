@@ -10,7 +10,7 @@
       "kaldırır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -42,7 +42,7 @@
       "yapı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "I-FAC",
@@ -74,7 +74,7 @@
       "değildir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -108,7 +108,7 @@
       "olur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -157,7 +157,7 @@
       "verir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -204,7 +204,7 @@
       "sahiptir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "B-GPE",
       "O",
@@ -257,7 +257,7 @@
       ")",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "O",
       "B-ORG",
@@ -319,7 +319,7 @@
       "kullanmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -381,7 +381,7 @@
       "sağlandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -439,7 +439,7 @@
       "üretildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "B-ORDINAL",
       "B-ORG",
@@ -477,7 +477,7 @@
       "çıktı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -517,7 +517,7 @@
       "almıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -577,7 +577,7 @@
       "gerekilmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PRODUCT",
@@ -633,7 +633,7 @@
       "halktır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -680,7 +680,7 @@
       "etti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-ORG",
@@ -724,7 +724,7 @@
       "geçirmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "I-NORP",
       "B-PERSON",
@@ -766,7 +766,7 @@
       "sırasındadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -802,7 +802,7 @@
       "kalmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -832,7 +832,7 @@
       "sanar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "O",
       "O",
@@ -879,7 +879,7 @@
       "araştırılır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -929,7 +929,7 @@
       "yapılmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-ORG",
@@ -969,7 +969,7 @@
       "sahibi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-EVENT",
@@ -1009,7 +1009,7 @@
       "yayıldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "O",
@@ -1056,7 +1056,7 @@
       "görülmüştür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "I-GPE",
@@ -1101,7 +1101,7 @@
       "anlatmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -1134,7 +1134,7 @@
       "vardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-PERSON",
@@ -1178,7 +1178,7 @@
       "uyarlamasıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-TITLE",
       "O",
@@ -1226,7 +1226,7 @@
       "yaşlanmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -1263,7 +1263,7 @@
       "katılmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-NORP",
@@ -1288,7 +1288,7 @@
       "öldü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-DATE",
@@ -1331,7 +1331,7 @@
       "senaryolaştırıldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -1382,7 +1382,7 @@
       "sezonudur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "I-EVENT",
@@ -1422,7 +1422,7 @@
       "anılmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-GPE",
@@ -1464,7 +1464,7 @@
       "film",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -1508,7 +1508,7 @@
       "etti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -1558,7 +1558,7 @@
       "bırakmıştı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "B-WORK_OF_ART",
@@ -1600,7 +1600,7 @@
       "aktör",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -1623,7 +1623,7 @@
       "doğmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O"
@@ -1645,7 +1645,7 @@
       "yapmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "I-NORP",
       "O",
@@ -1671,7 +1671,7 @@
       "odağıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -1706,7 +1706,7 @@
       "tesislerdir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "I-FAC",
@@ -1755,7 +1755,7 @@
       "sayılmaktır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -1805,7 +1805,7 @@
       "atmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -1843,7 +1843,7 @@
       "öldü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-PERSON",
@@ -1889,7 +1889,7 @@
       "bulunamamıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -1934,7 +1934,7 @@
       "yazarı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -1964,7 +1964,7 @@
       "gösteriyor",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -2002,7 +2002,7 @@
       "görülürdü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -2043,7 +2043,7 @@
       "bitirmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -2080,7 +2080,7 @@
       "bulutsudur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-LOC",
       "I-LOC",
       "O",
@@ -2129,7 +2129,7 @@
       "kaynaklanıyordu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "O",
@@ -2179,7 +2179,7 @@
       "anlaştı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -2211,7 +2211,7 @@
       "yürüttü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -2251,7 +2251,7 @@
       "uzanır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -2304,7 +2304,7 @@
       "girişmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -2370,7 +2370,7 @@
       "faaliyetleri",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -2417,7 +2417,7 @@
       "başkentiydi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "B-GPE",
@@ -2451,7 +2451,7 @@
       "yaptı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-CARDINAL",
       "O",
       "O",
@@ -2499,7 +2499,7 @@
       "tamamladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -2538,7 +2538,7 @@
       "tanındı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -2566,7 +2566,7 @@
       "çıktı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORDINAL",
       "O",
       "O",
@@ -2596,7 +2596,7 @@
       "oluşturur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-DATE",
       "O",
@@ -2635,7 +2635,7 @@
       "kalmak",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -2683,7 +2683,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-ORG",
@@ -2724,7 +2724,7 @@
       "basılmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -2764,7 +2764,7 @@
       "olmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -2806,7 +2806,7 @@
       "alıyor",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-ORG",
       "O",
@@ -2833,7 +2833,7 @@
       "çıkmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-CARDINAL",
@@ -2879,7 +2879,7 @@
       "gelir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -2940,7 +2940,7 @@
       "başlayacaklardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -2989,7 +2989,7 @@
       "Köker",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -3034,7 +3034,7 @@
       "açtı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "O",
       "O",
@@ -3066,7 +3066,7 @@
       "rolünde",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-PERSON",
       "I-PERSON",
@@ -3085,7 +3085,7 @@
       "doğdu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "B-GPE",
       "O",
@@ -3111,7 +3111,7 @@
       "üstlendi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -3158,7 +3158,7 @@
       "gömüldü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-TITLE",
@@ -3214,7 +3214,7 @@
       "modelidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PRODUCT",
       "I-PRODUCT",
       "B-EVENT",
@@ -3256,7 +3256,7 @@
       "Palto",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "O",
       "O",
@@ -3298,7 +3298,7 @@
       "biridir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "O",
@@ -3341,7 +3341,7 @@
       "sürdü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "B-GPE",
       "O",
@@ -3374,7 +3374,7 @@
       "karakterdir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -3405,7 +3405,7 @@
       "yayınlandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -3429,7 +3429,7 @@
       "yazardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -3471,7 +3471,7 @@
       "kişilerdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -3527,7 +3527,7 @@
       "düzenlenmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -3570,7 +3570,7 @@
       "verilmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -3606,7 +3606,7 @@
       "general",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -3637,7 +3637,7 @@
       "kurtulmuş",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -3664,7 +3664,7 @@
       "bulunmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -3689,7 +3689,7 @@
       "Watson",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -3723,7 +3723,7 @@
       "başardı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-CARDINAL",
@@ -3758,7 +3758,7 @@
       "başlar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -3794,7 +3794,7 @@
       "kullandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -3858,7 +3858,7 @@
       "sahibidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -3941,7 +3941,7 @@
       "vardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -4001,7 +4001,7 @@
       "çalıştı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "B-CARDINAL",
@@ -4039,7 +4039,7 @@
       "yönetilmelidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -4079,7 +4079,7 @@
       "kurdu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -4132,7 +4132,7 @@
       "yayınlamışlardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-GPE",
@@ -4185,7 +4185,7 @@
       "kantatı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -4224,7 +4224,7 @@
       "vardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -4256,7 +4256,7 @@
       "Gülyüz",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "O",
       "O",
@@ -4281,7 +4281,7 @@
       "vermiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-FAC",
       "I-FAC",
@@ -4304,7 +4304,7 @@
       "tazısıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -4345,7 +4345,7 @@
       "biridir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -4390,7 +4390,7 @@
       "sağlamıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -4422,7 +4422,7 @@
       "biçimidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -4468,7 +4468,7 @@
       "yazdı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -4506,7 +4506,7 @@
       "canlandırılmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -4526,7 +4526,7 @@
       "şehirdir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -4550,7 +4550,7 @@
       "yapılmasıydı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -4573,7 +4573,7 @@
       "almamıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -4601,7 +4601,7 @@
       "yılanların",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -4632,7 +4632,7 @@
       "edilmektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -4659,7 +4659,7 @@
       "yararlanılabilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -4713,7 +4713,7 @@
       "önleyebilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -4765,7 +4765,7 @@
       "3:58",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -4799,7 +4799,7 @@
       "alır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "I-GPE",
@@ -4847,7 +4847,7 @@
       "vurgulamıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "I-ORG",
@@ -4890,7 +4890,7 @@
       "çıkardı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "O",
@@ -4933,7 +4933,7 @@
       "çağırıldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -4980,7 +4980,7 @@
       "tapınaktır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "O",
@@ -5020,7 +5020,7 @@
       "ad",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -5060,7 +5060,7 @@
       "seçildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -5102,7 +5102,7 @@
       "geliştirdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -5141,7 +5141,7 @@
       "anlatır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-EVENT",
       "I-EVENT",
@@ -5182,7 +5182,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -5223,7 +5223,7 @@
       "ressamı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -5269,7 +5269,7 @@
       "şarkı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -5316,7 +5316,7 @@
       "imzaladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -5352,7 +5352,7 @@
       "kıvrımdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-LOC",
       "I-LOC",
       "O",
@@ -5388,7 +5388,7 @@
       "katılmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -5442,7 +5442,7 @@
       "görevliydi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-NORP",
@@ -5505,7 +5505,7 @@
       "filmidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-DATE",
       "O",
@@ -5558,7 +5558,7 @@
       "aittir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORDINAL",
       "O",
       "O",
@@ -5617,7 +5617,7 @@
       "geçerdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -5666,7 +5666,7 @@
       "yaptırdı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -5705,7 +5705,7 @@
       "değildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -5741,7 +5741,7 @@
       "belirler",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -5773,7 +5773,7 @@
       "denir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -5832,7 +5832,7 @@
       "olmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-PERSON",
@@ -5897,7 +5897,7 @@
       "gösterilmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-EVENT",
@@ -5936,7 +5936,7 @@
       "Mr",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-PERSON",
       "O",
@@ -5964,7 +5964,7 @@
       "kalırlar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -5995,7 +5995,7 @@
       "park",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "I-FAC",
@@ -6037,7 +6037,7 @@
       "değerlendirdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -6089,7 +6089,7 @@
       "oynanıyordu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -6142,7 +6142,7 @@
       "etmektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -6184,7 +6184,7 @@
       "adamı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -6220,7 +6220,7 @@
       "fırlatıldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -6255,7 +6255,7 @@
       "bilinmektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "O",
       "O",
@@ -6281,7 +6281,7 @@
       "turnuvalarındandır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORDINAL",
       "B-DATE",
       "I-DATE",
@@ -6311,7 +6311,7 @@
       "attı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-LANGUAGE",
       "O",
@@ -6335,7 +6335,7 @@
       "Mezar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "O"
@@ -6375,7 +6375,7 @@
       "almaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -6424,7 +6424,7 @@
       "gazetesi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "I-ORG",
@@ -6456,7 +6456,7 @@
       "etmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -6484,7 +6484,7 @@
       "yapılmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "I-FAC",
@@ -6520,7 +6520,7 @@
       "kitabı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -6577,7 +6577,7 @@
       "paylaştı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -6622,7 +6622,7 @@
       "biridir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-LANGUAGE",
       "O",
       "O",
@@ -6656,7 +6656,7 @@
       "çıkacak",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "O",
       "O",
@@ -6708,7 +6708,7 @@
       "bıktırır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "B-PERSON",
       "O",
@@ -6755,7 +6755,7 @@
       "kaldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "I-NORP",
       "O",
@@ -6785,7 +6785,7 @@
       "yönetildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-DATE",
@@ -6813,7 +6813,7 @@
       "edildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-DATE",
@@ -6850,7 +6850,7 @@
       "konuşturulmuşlardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "I-NORP",
       "O",
@@ -6912,7 +6912,7 @@
       "aşamadayım",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -6966,7 +6966,7 @@
       "boşandılar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -7004,7 +7004,7 @@
       "toplanır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "O",
       "O",
@@ -7042,7 +7042,7 @@
       "bölümüdür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -7080,7 +7080,7 @@
       "tanınır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -7123,7 +7123,7 @@
       "bulunmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "B-NORP",
       "I-NORP",
@@ -7159,7 +7159,7 @@
       "evlenmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -7202,7 +7202,7 @@
       "açıklar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -7250,7 +7250,7 @@
       "açtı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "B-GPE",
       "O",
@@ -7284,7 +7284,7 @@
       "alıcı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -7326,7 +7326,7 @@
       "cismidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-QUANTITY",
       "I-QUANTITY",
       "O",
@@ -7368,7 +7368,7 @@
       "başlandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-ORDINAL",
@@ -7402,7 +7402,7 @@
       "organı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "I-ORG",
@@ -7449,7 +7449,7 @@
       "türüdür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -7485,7 +7485,7 @@
       "çıkar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -7508,7 +7508,7 @@
       "çeşididir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -7536,7 +7536,7 @@
       "açıktır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "O",
@@ -7577,7 +7577,7 @@
       "kaydoldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-DATE",
@@ -7618,7 +7618,7 @@
       "aranıyordu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "O",
       "O",
@@ -7651,7 +7651,7 @@
       "inanıyor",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -7683,7 +7683,7 @@
       "inanılıyor",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -7715,7 +7715,7 @@
       "bırakmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-GPE",
@@ -7749,7 +7749,7 @@
       "düzenlenir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -7776,7 +7776,7 @@
       "siyasetçi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -7804,7 +7804,7 @@
       "savuştururlar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-NORP",
@@ -7855,7 +7855,7 @@
       "zorlaştırmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-PERSON",
       "O",
@@ -7913,7 +7913,7 @@
       "olmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PRODUCT",
       "O",
       "B-GPE",
@@ -7950,7 +7950,7 @@
       "geçmişlerdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "I-NORP",
       "O",
@@ -7988,7 +7988,7 @@
       "alır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORDINAL",
       "O",
       "B-PERSON",
@@ -8029,7 +8029,7 @@
       "görevlendirilmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-LAW",
       "I-LAW",
@@ -8057,7 +8057,7 @@
       "başkanıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "B-DATE",
@@ -8092,7 +8092,7 @@
       "kazandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-PERSON",
@@ -8131,7 +8131,7 @@
       "canlandırmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-WORK_OF_ART",
@@ -8163,7 +8163,7 @@
       "gelmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-GPE",
@@ -8188,7 +8188,7 @@
       "R",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -8226,7 +8226,7 @@
       "kuruldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "I-FAC",
@@ -8278,7 +8278,7 @@
       "meyve",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -8326,7 +8326,7 @@
       "söyler",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -8377,7 +8377,7 @@
       "doğrulamıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -8422,7 +8422,7 @@
       "bırakıldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -8457,7 +8457,7 @@
       "yardımcısı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -8503,7 +8503,7 @@
       "canlandırdı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -8562,7 +8562,7 @@
       "elendiler",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -8613,7 +8613,7 @@
       "teklisidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "B-NORP",
@@ -8647,7 +8647,7 @@
       "alır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "I-ORG",
@@ -8672,7 +8672,7 @@
       "12",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -8697,7 +8697,7 @@
       "geçirdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "O",
@@ -8724,7 +8724,7 @@
       "verildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -8750,7 +8750,7 @@
       "kralıydı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -8789,7 +8789,7 @@
       "tamamladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "I-ORG",
@@ -8848,7 +8848,7 @@
       "şirketleridir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -8903,7 +8903,7 @@
       "kurabilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -8940,7 +8940,7 @@
       "yaptı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -8974,7 +8974,7 @@
       "almıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-DATE",
@@ -9009,7 +9009,7 @@
       "kaptanıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -9063,7 +9063,7 @@
       "girebilmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "O",
@@ -9111,7 +9111,7 @@
       "limanıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -9137,7 +9137,7 @@
       "albümüdür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -9169,7 +9169,7 @@
       "çalıştırdı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -9201,7 +9201,7 @@
       "şehridir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -9231,7 +9231,7 @@
       "olamadılar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "O",
@@ -9256,7 +9256,7 @@
       "yazarı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -9295,7 +9295,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "B-EVENT",
       "I-EVENT",
@@ -9352,7 +9352,7 @@
       "Cumhurbaşkanı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -9410,7 +9410,7 @@
       "çipset",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -9450,7 +9450,7 @@
       "seçildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -9474,7 +9474,7 @@
       "Bakanı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -9500,7 +9500,7 @@
       "evlendi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -9545,7 +9545,7 @@
       "edildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -9610,7 +9610,7 @@
       "gerçekleşti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -9657,7 +9657,7 @@
       "tanrısıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -9710,7 +9710,7 @@
       "konumundaydı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -9764,7 +9764,7 @@
       "futbolcusu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -9795,7 +9795,7 @@
       "adıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -9833,7 +9833,7 @@
       "bildirir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "O",
@@ -9879,7 +9879,7 @@
       "seçilmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-ORG",
@@ -9924,7 +9924,7 @@
       "olmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-ORG",
@@ -9974,7 +9974,7 @@
       "bağlanır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -10019,7 +10019,7 @@
       "niceliktir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -10062,7 +10062,7 @@
       "tamamladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -10128,7 +10128,7 @@
       "tanımlamıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-DATE",
@@ -10189,7 +10189,7 @@
       "seçilmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -10233,7 +10233,7 @@
       "ermiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -10287,7 +10287,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "O",
       "O",
@@ -10337,7 +10337,7 @@
       "yaşardı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -10368,7 +10368,7 @@
       "kullanılmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -10412,7 +10412,7 @@
       "kaçırmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-DATE",
       "I-DATE",
@@ -10456,7 +10456,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "B-NORP",
       "B-TITLE",
@@ -10482,7 +10482,7 @@
       "yakalandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "O",
       "O",
@@ -10514,7 +10514,7 @@
       "yayınlandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -10567,7 +10567,7 @@
       "başaramaz",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -10614,7 +10614,7 @@
       "teklidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -10646,7 +10646,7 @@
       "kalmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "O",
@@ -10679,7 +10679,7 @@
       "feshetmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -10715,7 +10715,7 @@
       "çaldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -10760,7 +10760,7 @@
       "cm'dir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -10798,7 +10798,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -10820,7 +10820,7 @@
       "bulunur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-LOC",
       "I-LOC",
       "O",
@@ -10847,7 +10847,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-PERSON",
       "B-PERSON",
@@ -10891,7 +10891,7 @@
       "gelir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -10929,7 +10929,7 @@
       "yarışır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "O",
       "B-CARDINAL",
@@ -10959,7 +10959,7 @@
       "biridir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-TITLE",
       "B-PERSON",
       "B-NORP",
@@ -10995,7 +10995,7 @@
       "görüldü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -11037,7 +11037,7 @@
       "sahiptir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -11076,7 +11076,7 @@
       "yasadışıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -11109,7 +11109,7 @@
       "yapmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -11157,7 +11157,7 @@
       "ulaştı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "I-ORG",
@@ -11207,7 +11207,7 @@
       "Sözen",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "I-ORG",
@@ -11244,7 +11244,7 @@
       "üyesi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -11292,7 +11292,7 @@
       "etkilenmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -11337,7 +11337,7 @@
       "stadyumdur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "O",
@@ -11373,7 +11373,7 @@
       "bulunmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "O",
@@ -11412,7 +11412,7 @@
       "biridir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PRODUCT",
       "O",
       "B-ORG",
@@ -11467,7 +11467,7 @@
       "yapardı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -11519,7 +11519,7 @@
       "ilerlemedi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -11569,7 +11569,7 @@
       "hedeflemektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PRODUCT",
       "I-PRODUCT",
       "O",
@@ -11618,7 +11618,7 @@
       "km'dir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -11658,7 +11658,7 @@
       "düzenlemektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -11699,7 +11699,7 @@
       "bulunuyordu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -11739,7 +11739,7 @@
       "olmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-TITLE",
       "I-TITLE",
@@ -11784,7 +11784,7 @@
       "odaklandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -11832,7 +11832,7 @@
       "yaşar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-QUANTITY",
       "I-QUANTITY",
@@ -11890,7 +11890,7 @@
       "yapmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -11931,7 +11931,7 @@
       "olmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-ORG",
@@ -11957,7 +11957,7 @@
       "Atabasklarıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -11984,7 +11984,7 @@
       "ilidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -12027,7 +12027,7 @@
       "Mr",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -12091,7 +12091,7 @@
       "kavuşturur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -12143,7 +12143,7 @@
       "taşındı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "O",
@@ -12188,7 +12188,7 @@
       "kolonidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "O",
@@ -12239,7 +12239,7 @@
       "tenisçi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -12279,7 +12279,7 @@
       "şarkı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-WORK_OF_ART",
       "O",
@@ -12316,7 +12316,7 @@
       "öldü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-PERSON",
       "I-PERSON",
@@ -12366,7 +12366,7 @@
       "başladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -12414,7 +12414,7 @@
       "tasarlanmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -12447,7 +12447,7 @@
       "biridir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "I-FAC",
@@ -12474,7 +12474,7 @@
       "kg'dir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-LOC",
       "O",
       "O",
@@ -12497,7 +12497,7 @@
       "yapmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-DATE",
       "B-ORG",
@@ -12530,7 +12530,7 @@
       "yaratıldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -12571,7 +12571,7 @@
       "olmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -12610,7 +12610,7 @@
       "hissettirmektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -12649,7 +12649,7 @@
       "çalışmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-CARDINAL",
@@ -12701,7 +12701,7 @@
       "ölmüştür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-PERSON",
@@ -12753,7 +12753,7 @@
       "tanınmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -12808,7 +12808,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "O",
@@ -12868,7 +12868,7 @@
       "tarar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -12927,7 +12927,7 @@
       "oyunudur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PRODUCT",
       "I-PRODUCT",
       "I-PRODUCT",
@@ -12984,7 +12984,7 @@
       "yaratıcılarındandır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -13028,7 +13028,7 @@
       "amaçlıyordu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -13064,7 +13064,7 @@
       "edilmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-FAC",
@@ -13107,7 +13107,7 @@
       "gelmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -13160,7 +13160,7 @@
       "yaşadılar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -13202,7 +13202,7 @@
       "Sarafian'dır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -13251,7 +13251,7 @@
       "konuşur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -13297,7 +13297,7 @@
       "giymiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "I-ORG",
@@ -13342,7 +13342,7 @@
       "Jinsuke",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -13402,7 +13402,7 @@
       "anlaştılar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -13458,7 +13458,7 @@
       "çalıştı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -13497,7 +13497,7 @@
       "ses",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -13526,7 +13526,7 @@
       "kimse",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -13565,7 +13565,7 @@
       "göçer",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -13614,7 +13614,7 @@
       "imzalamıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -13678,7 +13678,7 @@
       "değerlendirilebilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -13729,7 +13729,7 @@
       "yedi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-CARDINAL",
@@ -13769,7 +13769,7 @@
       "tanımlar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "O",
       "O",
@@ -13811,7 +13811,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-ORG",
       "I-ORG",
@@ -13851,7 +13851,7 @@
       "olamadı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "I-EVENT",
@@ -13912,7 +13912,7 @@
       "gösterilmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "I-ORG",
@@ -13960,7 +13960,7 @@
       "verilmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PRODUCT",
       "I-PRODUCT",
       "I-PRODUCT",
@@ -13984,7 +13984,7 @@
       "şehir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -14035,7 +14035,7 @@
       "korunmuştu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -14098,7 +14098,7 @@
       "şirketidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "I-ORG",
@@ -14159,7 +14159,7 @@
       "kaldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-TITLE",
       "I-TITLE",
       "B-PERSON",
@@ -14215,7 +14215,7 @@
       "adı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -14247,7 +14247,7 @@
       "ilçe",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "I-GPE",
@@ -14277,7 +14277,7 @@
       "çarpışma",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "I-EVENT",
@@ -14317,7 +14317,7 @@
       "yapıldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "I-EVENT",
@@ -14366,7 +14366,7 @@
       "bırakıldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -14427,7 +14427,7 @@
       "yapmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -14485,7 +14485,7 @@
       "söyler",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -14522,7 +14522,7 @@
       "kesti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -14549,7 +14549,7 @@
       "havalimanıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "B-GPE",
@@ -14572,7 +14572,7 @@
       "döndü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -14614,7 +14614,7 @@
       "gömüldü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -14657,7 +14657,7 @@
       "topluluğudur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-NORP",
@@ -14690,7 +14690,7 @@
       "kullanırlar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -14738,7 +14738,7 @@
       "görülür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -14777,7 +14777,7 @@
       "yapmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-EVENT",
@@ -14811,7 +14811,7 @@
       "tanımlamaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "B-NORP",
@@ -14849,7 +14849,7 @@
       "açıkladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-DATE",
@@ -14896,7 +14896,7 @@
       "yazılmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -14939,7 +14939,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "B-ORG",
       "I-ORG",
@@ -14976,7 +14976,7 @@
       "yayınlandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -15019,7 +15019,7 @@
       "adıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-PERSON",
@@ -15063,7 +15063,7 @@
       "kurdu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -15105,7 +15105,7 @@
       "düşünülür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -15143,7 +15143,7 @@
       "edildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -15184,7 +15184,7 @@
       "almıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -15237,7 +15237,7 @@
       "almaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -15292,7 +15292,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-CARDINAL",
       "B-CARDINAL",
@@ -15326,7 +15326,7 @@
       "katılmıyordu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -15362,7 +15362,7 @@
       "çalıştı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -15409,7 +15409,7 @@
       "yapmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -15465,7 +15465,7 @@
       "gösterilmektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -15508,7 +15508,7 @@
       "kurulmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-DATE",
       "I-DATE",
@@ -15559,7 +15559,7 @@
       "yazdı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-ORDINAL",
       "O",
@@ -15611,7 +15611,7 @@
       "dostuydu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -15642,7 +15642,7 @@
       "görülmektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -15675,7 +15675,7 @@
       "girdiler",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-PERSON",
@@ -15720,7 +15720,7 @@
       "yapmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "O",
@@ -15765,7 +15765,7 @@
       "eleştirdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "B-WORK_OF_ART",
@@ -15797,7 +15797,7 @@
       "başladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "I-GPE",
@@ -15826,7 +15826,7 @@
       "geçiyordu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "B-GPE",
       "B-GPE",
@@ -15847,7 +15847,7 @@
       "sahiptir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -15868,7 +15868,7 @@
       "başladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-CARDINAL",
       "I-CARDINAL",
       "O",
@@ -15905,7 +15905,7 @@
       "olabilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -15946,7 +15946,7 @@
       "gördü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -15988,7 +15988,7 @@
       "kullanılacaktır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -16030,7 +16030,7 @@
       "müzisyen",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -16065,7 +16065,7 @@
       "olamadı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -16102,7 +16102,7 @@
       "kazandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "I-EVENT",
@@ -16139,7 +16139,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-PERSON",
@@ -16174,7 +16174,7 @@
       "açmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -16208,7 +16208,7 @@
       "gerçekleştirmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-ORG",
@@ -16250,7 +16250,7 @@
       "otomobil",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PRODUCT",
       "I-PRODUCT",
       "O",
@@ -16288,7 +16288,7 @@
       "girdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -16324,7 +16324,7 @@
       "endemiktir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "O",
@@ -16370,7 +16370,7 @@
       "prototip",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -16416,7 +16416,7 @@
       "filmidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "O",
       "B-LANGUAGE",
@@ -16455,7 +16455,7 @@
       "başladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -16503,7 +16503,7 @@
       "havasındadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -16547,7 +16547,7 @@
       "getirildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-TITLE",
       "I-TITLE",
       "O",
@@ -16592,7 +16592,7 @@
       "ekonomisttir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -16636,7 +16636,7 @@
       "yaptı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "B-ORG",
       "O",
@@ -16678,7 +16678,7 @@
       "dönüştü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-LANGUAGE",
       "O",
@@ -16717,7 +16717,7 @@
       "kaldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "O",
       "O",
@@ -16744,7 +16744,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-ORG",
@@ -16788,7 +16788,7 @@
       "konuşulur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-EVENT",
@@ -16836,7 +16836,7 @@
       "belirlendi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -16878,7 +16878,7 @@
       "etti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "O",
@@ -16923,7 +16923,7 @@
       "romanıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-ORDINAL",
       "B-PERSON",
@@ -16963,7 +16963,7 @@
       "ettiler",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-NORP",
       "I-NORP",
@@ -17010,7 +17010,7 @@
       "Turnuvasi'dir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -17067,7 +17067,7 @@
       "gösterilmişti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORDINAL",
       "O",
       "B-DATE",
@@ -17127,7 +17127,7 @@
       "söylenebilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "B-ORDINAL",
       "O",
@@ -17172,7 +17172,7 @@
       "yazılmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -17196,7 +17196,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "I-GPE",
@@ -17231,7 +17231,7 @@
       "kazanmışlardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-CARDINAL",
       "O",
       "B-PRODUCT",
@@ -17290,7 +17290,7 @@
       "kurdular",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-FAC",
@@ -17363,7 +17363,7 @@
       "yazdılar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -17407,7 +17407,7 @@
       "Sımsıcaksın",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "O",
       "B-WORK_OF_ART",
@@ -17463,7 +17463,7 @@
       "yazılmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -17524,7 +17524,7 @@
       "yeterlidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-QUANTITY",
@@ -17552,7 +17552,7 @@
       "oluşturur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -17577,7 +17577,7 @@
       "yapmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -17618,7 +17618,7 @@
       "açar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -17679,7 +17679,7 @@
       "etti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "O",
       "B-GPE",
@@ -17734,7 +17734,7 @@
       "buluştu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-PERSON",
@@ -17775,7 +17775,7 @@
       "görülmektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -17801,7 +17801,7 @@
       "filozofudur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "B-GPE",
       "O",
@@ -17833,7 +17833,7 @@
       "bahsetti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "I-ORG",
@@ -17872,7 +17872,7 @@
       "başlamıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "B-EVENT",
       "I-EVENT",
@@ -17906,7 +17906,7 @@
       "yararlanmaktadırlar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -17943,7 +17943,7 @@
       "olmamıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "I-NORP",
       "I-NORP",
@@ -17969,7 +17969,7 @@
       "ölür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O"
@@ -17992,7 +17992,7 @@
       "olmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -18024,7 +18024,7 @@
       "komündür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -18069,7 +18069,7 @@
       "adlandırırlar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-NORP",
@@ -18125,7 +18125,7 @@
       "alır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-CARDINAL",
       "O",
@@ -18184,7 +18184,7 @@
       "etmişlerdir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "O",
       "B-DATE",
@@ -18230,7 +18230,7 @@
       "megapascal'dir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -18259,7 +18259,7 @@
       "üretildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -18298,7 +18298,7 @@
       "oynadı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -18344,7 +18344,7 @@
       "seçtiler",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -18385,7 +18385,7 @@
       "karşıladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-TITLE",
       "I-TITLE",
       "B-PERSON",
@@ -18422,7 +18422,7 @@
       "aittir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -18468,7 +18468,7 @@
       "başlamıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-DATE",
@@ -18538,7 +18538,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-CARDINAL",
       "O",
       "B-ORDINAL",
@@ -18589,7 +18589,7 @@
       "hissediyorlar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-CARDINAL",
       "O",
       "O",
@@ -18612,7 +18612,7 @@
       "Stew'dir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-PERSON",
       "I-PERSON",
@@ -18649,7 +18649,7 @@
       "bulunmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "O",
@@ -18688,7 +18688,7 @@
       "oyunudur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -18718,7 +18718,7 @@
       "bulunmamaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -18741,7 +18741,7 @@
       "yaşadı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -18765,7 +18765,7 @@
       "geçti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -18811,7 +18811,7 @@
       "yazdı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -18865,7 +18865,7 @@
       "süslenir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-CARDINAL",
       "O",
       "O",
@@ -18922,7 +18922,7 @@
       ")",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PRODUCT",
       "I-PRODUCT",
       "O",
@@ -18986,7 +18986,7 @@
       "adamıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -19036,7 +19036,7 @@
       "renklidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -19065,7 +19065,7 @@
       "alınmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -19106,7 +19106,7 @@
       "yürüdüler",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-ORDINAL",
@@ -19152,7 +19152,7 @@
       "gösterilirler",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -19191,7 +19191,7 @@
       "bakılmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -19232,7 +19232,7 @@
       "yazdı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-TITLE",
@@ -19273,7 +19273,7 @@
       "yönelmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -19314,7 +19314,7 @@
       "geçti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -19351,7 +19351,7 @@
       "çıktı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-PRODUCT",
@@ -19401,7 +19401,7 @@
       "başladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "B-GPE",
@@ -19452,7 +19452,7 @@
       "çözdü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "B-CARDINAL",
       "O",
@@ -19494,7 +19494,7 @@
       "konulmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -19528,7 +19528,7 @@
       "güçlendirmekti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -19553,7 +19553,7 @@
       "fazlaydı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -19581,7 +19581,7 @@
       "idi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -19628,7 +19628,7 @@
       "kalkar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -19680,7 +19680,7 @@
       "bölümlendirilebilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -19723,7 +19723,7 @@
       "katılmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -19779,7 +19779,7 @@
       "çıkarmışlardı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -19824,7 +19824,7 @@
       "vardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-LANGUAGE",
       "B-CARDINAL",
       "O",
@@ -19843,7 +19843,7 @@
       "futbolcu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -19880,7 +19880,7 @@
       "anımsatıcısı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "B-PERSON",
@@ -19928,7 +19928,7 @@
       "gösterdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -19981,7 +19981,7 @@
       "etmedi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "O",
       "O",
@@ -20025,7 +20025,7 @@
       "sahiptir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -20060,7 +20060,7 @@
       "çalışmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-DATE",
       "I-DATE",
@@ -20101,7 +20101,7 @@
       "futbolcu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -20132,7 +20132,7 @@
       "almaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "O",
       "O",
@@ -20160,7 +20160,7 @@
       "barındırır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "O",
@@ -20185,7 +20185,7 @@
       "kahramanıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -20212,7 +20212,7 @@
       "sunulmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-WORK_OF_ART",
@@ -20253,7 +20253,7 @@
       "gitti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -20300,7 +20300,7 @@
       "bulunur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -20353,7 +20353,7 @@
       "albümdür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -20406,7 +20406,7 @@
       "kişiydi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "O",
       "O",
@@ -20458,7 +20458,7 @@
       "edilmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-QUANTITY",
       "I-QUANTITY",
       "O",
@@ -20501,7 +20501,7 @@
       "bulunmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-PERSON",
       "O",
@@ -20538,7 +20538,7 @@
       ")",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -20573,7 +20573,7 @@
       "konuşlandırılmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -20616,7 +20616,7 @@
       "atandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -20674,7 +20674,7 @@
       "kaynaklanmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -20720,7 +20720,7 @@
       "söyledi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "O",
       "B-DATE",
@@ -20751,7 +20751,7 @@
       "devlet",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "B-GPE",
       "I-GPE",
@@ -20772,7 +20772,7 @@
       "kanalıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "O",
       "B-GPE",
@@ -20795,7 +20795,7 @@
       "şehirdir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -20830,7 +20830,7 @@
       "eyaletidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-QUANTITY",
@@ -20878,7 +20878,7 @@
       "eklendi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "I-EVENT",
@@ -20926,7 +20926,7 @@
       "halüsinojendir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -20967,7 +20967,7 @@
       "bulunmamıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -21003,7 +21003,7 @@
       "getirmekti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -21039,7 +21039,7 @@
       "savaştılar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-NORP",
@@ -21083,7 +21083,7 @@
       "ulaştı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-CARDINAL",
       "O",
       "O",
@@ -21129,7 +21129,7 @@
       "ildir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -21173,7 +21173,7 @@
       "yayınlandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -21217,7 +21217,7 @@
       "göründü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -21266,7 +21266,7 @@
       "Güle",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -21321,7 +21321,7 @@
       "eleştirildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -21362,7 +21362,7 @@
       "yararlanılamamaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -21395,7 +21395,7 @@
       "dalıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -21451,7 +21451,7 @@
       "etti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -21503,7 +21503,7 @@
       "biri",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "O",
@@ -21534,7 +21534,7 @@
       "başladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -21565,7 +21565,7 @@
       "yapılmıştı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -21601,7 +21601,7 @@
       ")",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -21651,7 +21651,7 @@
       "oynamaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-PERSON",
       "I-PERSON",
@@ -21700,7 +21700,7 @@
       "geçer",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -21731,7 +21731,7 @@
       "pilotu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "B-GPE",
@@ -21762,7 +21762,7 @@
       "Bender'dır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -21802,7 +21802,7 @@
       "sanatçı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-CARDINAL",
@@ -21850,7 +21850,7 @@
       "edilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "I-NORP",
       "O",
@@ -21903,7 +21903,7 @@
       "olmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-CARDINAL",
       "O",
@@ -21956,7 +21956,7 @@
       "kullanılır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -22002,7 +22002,7 @@
       "faydalanılırlar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -22036,7 +22036,7 @@
       "birisidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -22081,7 +22081,7 @@
       "kimyagerdir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -22138,7 +22138,7 @@
       "vardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "B-GPE",
       "O",
@@ -22188,7 +22188,7 @@
       "tamamladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -22229,7 +22229,7 @@
       "rolündeydi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -22278,7 +22278,7 @@
       "dönemdir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -22322,7 +22322,7 @@
       "çalıştı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -22349,7 +22349,7 @@
       "birisidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "I-GPE",
@@ -22387,7 +22387,7 @@
       "kalır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -22432,7 +22432,7 @@
       "ayrıldılar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -22482,7 +22482,7 @@
       "buldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "B-GPE",
       "O",
@@ -22522,7 +22522,7 @@
       "verir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -22557,7 +22557,7 @@
       "kitaptır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -22612,7 +22612,7 @@
       "artacaktı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -22667,7 +22667,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-ORG",
@@ -22717,7 +22717,7 @@
       "eminim",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-ORG",
       "I-ORG",
@@ -22760,7 +22760,7 @@
       "mevcuttur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -22792,7 +22792,7 @@
       "mikroorganizmalardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -22823,7 +22823,7 @@
       "sayfasıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PRODUCT",
       "I-PRODUCT",
       "O",
@@ -22861,7 +22861,7 @@
       "aldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "I-EVENT",
@@ -22899,7 +22899,7 @@
       "götürür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -22940,7 +22940,7 @@
       "gönderilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -22979,7 +22979,7 @@
       "düşünmektedirler",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -23012,7 +23012,7 @@
       "amaçlanıyordu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-CARDINAL",
@@ -23061,7 +23061,7 @@
       "kabullenmişlerdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -23129,7 +23129,7 @@
       "başlanmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "O",
       "O",
@@ -23182,7 +23182,7 @@
       "adaylarıydı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-ORG",
@@ -23220,7 +23220,7 @@
       "bulundu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -23253,7 +23253,7 @@
       "yüzücüsü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "B-NORP",
@@ -23287,7 +23287,7 @@
       "aldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "I-NORP",
       "I-NORP",
@@ -23345,7 +23345,7 @@
       "verir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -23394,7 +23394,7 @@
       "kurulur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-CARDINAL",
       "I-CARDINAL",
       "O",
@@ -23419,7 +23419,7 @@
       "Başkanlığı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "I-ORG",
@@ -23463,7 +23463,7 @@
       "sermiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -23512,7 +23512,7 @@
       "sorar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-PERSON",
@@ -23553,7 +23553,7 @@
       "açtı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -23603,7 +23603,7 @@
       "etmektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -23654,7 +23654,7 @@
       "başladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "O",
@@ -23702,7 +23702,7 @@
       "türdür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -23732,7 +23732,7 @@
       "kentidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "B-CARDINAL",
       "B-GPE",
@@ -23761,7 +23761,7 @@
       "başladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-DATE",
@@ -23802,7 +23802,7 @@
       "türü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -23835,7 +23835,7 @@
       "geçti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -23866,7 +23866,7 @@
       "birisiydi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -23921,7 +23921,7 @@
       "eder",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -23967,7 +23967,7 @@
       "adamıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -24000,7 +24000,7 @@
       "vardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "I-FAC",
@@ -24035,7 +24035,7 @@
       "şehir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "O",
@@ -24079,7 +24079,7 @@
       "görülmüştür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -24125,7 +24125,7 @@
       "başladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -24155,7 +24155,7 @@
       "kullanılır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -24187,7 +24187,7 @@
       "etmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -24240,7 +24240,7 @@
       "olmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -24311,7 +24311,7 @@
       "atabilmektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -24379,7 +24379,7 @@
       "bulunur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -24429,7 +24429,7 @@
       "kaydoldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-CARDINAL",
       "O",
       "O",
@@ -24464,7 +24464,7 @@
       "dir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -24517,7 +24517,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-WORK_OF_ART",
@@ -24577,7 +24577,7 @@
       "gitti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-TITLE",
       "I-TITLE",
       "I-TITLE",
@@ -24621,7 +24621,7 @@
       "kullandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-PERSON",
       "O",
@@ -24661,7 +24661,7 @@
       "arasındadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -24711,7 +24711,7 @@
       "derlenebilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PRODUCT",
       "O",
       "B-PRODUCT",
@@ -24763,7 +24763,7 @@
       "başladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -24803,7 +24803,7 @@
       "girmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-WORK_OF_ART",
@@ -24831,7 +24831,7 @@
       "savunuyordu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-ORG",
       "I-ORG",
@@ -24863,7 +24863,7 @@
       "merkezidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-CARDINAL",
@@ -24892,7 +24892,7 @@
       "karikatürist",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -24920,7 +24920,7 @@
       "açtı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "B-ORG",
       "I-ORG",
@@ -24972,7 +24972,7 @@
       "düşünüldü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "O",
       "O",
@@ -25030,7 +25030,7 @@
       "açmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-ORG",
@@ -25073,7 +25073,7 @@
       "sahnelenebilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -25126,7 +25126,7 @@
       "etti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -25174,7 +25174,7 @@
       "parçasıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -25210,7 +25210,7 @@
       "kaldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -25268,7 +25268,7 @@
       "yapmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -25331,7 +25331,7 @@
       "etti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -25394,7 +25394,7 @@
       "kavuşamadılar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -25445,7 +25445,7 @@
       "dilidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-LANGUAGE",
       "O",
       "B-GPE",
@@ -25475,7 +25475,7 @@
       "film",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -25511,7 +25511,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -25555,7 +25555,7 @@
       "yöneticisidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -25592,7 +25592,7 @@
       "eserdir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -25620,7 +25620,7 @@
       "gelişir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -25654,7 +25654,7 @@
       "belirtti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-ORG",
       "B-PERSON",
@@ -25711,7 +25711,7 @@
       "sunmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "B-GPE",
@@ -25787,7 +25787,7 @@
       "olmuştu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -25837,7 +25837,7 @@
       "şehir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -25871,7 +25871,7 @@
       "alır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "O",
@@ -25922,7 +25922,7 @@
       "hazırdı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORDINAL",
       "O",
       "O",
@@ -25965,7 +25965,7 @@
       "başladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -26020,7 +26020,7 @@
       "bulunmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -26084,7 +26084,7 @@
       "umuyordu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -26123,7 +26123,7 @@
       "gider",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -26162,7 +26162,7 @@
       "değiştirdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "I-ORG",
@@ -26200,7 +26200,7 @@
       "tamamladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-EVENT",
       "I-EVENT",
@@ -26241,7 +26241,7 @@
       "değişir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -26283,7 +26283,7 @@
       "Komisyonu'ydu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -26312,7 +26312,7 @@
       "adadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-LOC",
@@ -26347,7 +26347,7 @@
       "bulutsusu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-LOC",
       "I-LOC",
       "O",
@@ -26389,7 +26389,7 @@
       "elendiler",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-ORG",
@@ -26431,7 +26431,7 @@
       "tanışır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -26474,7 +26474,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -26520,7 +26520,7 @@
       "gösterdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "B-TITLE",
@@ -26552,7 +26552,7 @@
       "denir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -26578,7 +26578,7 @@
       "tanıştı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -26614,7 +26614,7 @@
       "yapmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "B-NORP",
@@ -26664,7 +26664,7 @@
       "eder",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "B-PERSON",
       "O",
@@ -26736,7 +26736,7 @@
       "ekledi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "B-PERSON",
       "I-PERSON",
@@ -26788,7 +26788,7 @@
       "üzerindedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -26822,7 +26822,7 @@
       "kadehleridir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -26861,7 +26861,7 @@
       "yorulmazlar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-PERSON",
@@ -26898,7 +26898,7 @@
       "okunanlardandır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "O",
@@ -26946,7 +26946,7 @@
       "giydi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "O",
@@ -26994,7 +26994,7 @@
       "gösterirler",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -27027,7 +27027,7 @@
       "sunulmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PRODUCT",
       "O",
       "O",
@@ -27066,7 +27066,7 @@
       "yağmaladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "B-NORP",
       "I-NORP",
@@ -27118,7 +27118,7 @@
       "şarkıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "O",
@@ -27158,7 +27158,7 @@
       "gelmektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -27183,7 +27183,7 @@
       "tatlısı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -27208,7 +27208,7 @@
       "yapılmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -27240,7 +27240,7 @@
       "oluşturdu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -27271,7 +27271,7 @@
       "aldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -27308,7 +27308,7 @@
       "vardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-CARDINAL",
       "O",
@@ -27358,7 +27358,7 @@
       "yapmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -27408,7 +27408,7 @@
       "hanedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "O",
@@ -27461,7 +27461,7 @@
       "oynadı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "B-DATE",
       "I-DATE",
@@ -27502,7 +27502,7 @@
       "alırlardı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -27536,7 +27536,7 @@
       "edilememektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -27585,7 +27585,7 @@
       "demiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -27625,7 +27625,7 @@
       "çıkarılmıştı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -27659,7 +27659,7 @@
       "anıldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-TITLE",
       "B-PERSON",
       "I-PERSON",
@@ -27701,7 +27701,7 @@
       "\"",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-CARDINAL",
       "O",
@@ -27737,7 +27737,7 @@
       "grubu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -27773,7 +27773,7 @@
       "göstermiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-CARDINAL",
       "O",
       "O",
@@ -27814,7 +27814,7 @@
       "tamamlıyor",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -27869,7 +27869,7 @@
       "verir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -27934,7 +27934,7 @@
       "vardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -27980,7 +27980,7 @@
       "kalmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "I-GPE",
@@ -28033,7 +28033,7 @@
       "kurtardı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "O",
       "O",
@@ -28094,7 +28094,7 @@
       "ailedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -28137,7 +28137,7 @@
       "belirlenmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -28170,7 +28170,7 @@
       "türüdür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -28196,7 +28196,7 @@
       "herkestir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -28225,7 +28225,7 @@
       "yanlısıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-LAW",
@@ -28255,7 +28255,7 @@
       "taşınır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -28286,7 +28286,7 @@
       "oluşturmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -28318,7 +28318,7 @@
       "köydür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -28349,7 +28349,7 @@
       "Şampiyonası",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "I-EVENT",
@@ -28377,7 +28377,7 @@
       "aldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-DATE",
@@ -28400,7 +28400,7 @@
       "almıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -28441,7 +28441,7 @@
       "oynadı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-WORK_OF_ART",
@@ -28493,7 +28493,7 @@
       "sağlamaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -28535,7 +28535,7 @@
       "almıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -28577,7 +28577,7 @@
       "yapılmamıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -28627,7 +28627,7 @@
       "duydular",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -28669,7 +28669,7 @@
       "çağrılırlardı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "O",
@@ -28713,7 +28713,7 @@
       "veManitoba",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "O",
@@ -28756,7 +28756,7 @@
       "alır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "O",
@@ -28808,7 +28808,7 @@
       "ayrılır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -28859,7 +28859,7 @@
       "ydı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-LOC",
       "O",
       "O",
@@ -28896,7 +28896,7 @@
       "paylaşılır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -28934,7 +28934,7 @@
       "attı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-ORG",
@@ -28971,7 +28971,7 @@
       "partisi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "O",
@@ -29013,7 +29013,7 @@
       "takılabilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-CARDINAL",
@@ -29043,7 +29043,7 @@
       "havalimanlarındandır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "B-GPE",
@@ -29080,7 +29080,7 @@
       "biri",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-NORP",
@@ -29120,7 +29120,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "I-EVENT",
@@ -29145,7 +29145,7 @@
       "şarkıcısı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -29198,7 +29198,7 @@
       "dönebildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "O",
       "O",
@@ -29270,7 +29270,7 @@
       "değiştirildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-WORK_OF_ART",
@@ -29311,7 +29311,7 @@
       "yapmaktadırlar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-FAC",
       "I-FAC",
@@ -29344,7 +29344,7 @@
       "öğrenir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -29381,7 +29381,7 @@
       "yazarı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -29405,7 +29405,7 @@
       "adamı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "B-NORP",
@@ -29432,7 +29432,7 @@
       "oluşmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "I-FAC",
@@ -29466,7 +29466,7 @@
       "söyledi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "B-ORDINAL",
       "O",
@@ -29515,7 +29515,7 @@
       "Akışı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -29577,7 +29577,7 @@
       ")",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "I-ORG",
@@ -29629,7 +29629,7 @@
       "dokunamadı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -29666,7 +29666,7 @@
       "simgeler",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -29698,7 +29698,7 @@
       "bağlıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "O",
@@ -29734,7 +29734,7 @@
       "yapıyor",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -29776,7 +29776,7 @@
       "noktasıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-LOC",
       "I-LOC",
       "O",
@@ -29816,7 +29816,7 @@
       "biridir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "O",
@@ -29864,7 +29864,7 @@
       "açabilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -29930,7 +29930,7 @@
       "yasaklandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "I-ORG",
@@ -29986,7 +29986,7 @@
       "yapılmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-FAC",
@@ -30034,7 +30034,7 @@
       "kuruldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "O",
       "B-ORG",
@@ -30101,7 +30101,7 @@
       "kazandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-ORDINAL",
       "I-ORDINAL",
@@ -30161,7 +30161,7 @@
       "okur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-PERSON",
@@ -30202,7 +30202,7 @@
       "söyledi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -30240,7 +30240,7 @@
       "tanınır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -30273,7 +30273,7 @@
       "tartışmışlar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -30300,7 +30300,7 @@
       "çıkartılır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -30320,7 +30320,7 @@
       "oynadı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-CARDINAL",
       "O",
       "B-ORG",
@@ -30346,7 +30346,7 @@
       "giydi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "O",
       "B-ORDINAL",
@@ -30384,7 +30384,7 @@
       "aldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -30420,7 +30420,7 @@
       "etti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "B-EVENT",
       "I-EVENT",
@@ -30453,7 +30453,7 @@
       "gerçekleştirildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "B-PERSON",
       "I-PERSON",
@@ -30480,7 +30480,7 @@
       "doğdu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "B-GPE",
@@ -30515,7 +30515,7 @@
       "yaşındaydı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -30564,7 +30564,7 @@
       "tanımlar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -30597,7 +30597,7 @@
       "alır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -30645,7 +30645,7 @@
       "şehir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-LANGUAGE",
@@ -30701,7 +30701,7 @@
       "oluşturur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -30729,7 +30729,7 @@
       "Ç",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "B-TITLE",
@@ -30766,7 +30766,7 @@
       ")",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -30812,7 +30812,7 @@
       "ister",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -30858,7 +30858,7 @@
       "seçildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "B-PERSON",
       "I-PERSON",
@@ -30899,7 +30899,7 @@
       "idi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -30933,7 +30933,7 @@
       "yayınlandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -30969,7 +30969,7 @@
       "gölüdür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-LOC",
       "I-LOC",
       "B-QUANTITY",
@@ -30999,7 +30999,7 @@
       "idi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-ORDINAL",
@@ -31023,7 +31023,7 @@
       "aldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -31057,7 +31057,7 @@
       "başladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -31101,7 +31101,7 @@
       "idi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -31139,7 +31139,7 @@
       "dağcıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-PERSON",
@@ -31171,7 +31171,7 @@
       "öngörmemektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "O",
       "B-DATE",
@@ -31204,7 +31204,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-CARDINAL",
       "O",
       "O",
@@ -31230,7 +31230,7 @@
       "Kırgızları",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "I-NORP",
       "O"
@@ -31252,7 +31252,7 @@
       "çıktı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-DATE",
@@ -31292,7 +31292,7 @@
       "bilinir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -31339,7 +31339,7 @@
       "doğdu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "B-PERSON",
       "I-PERSON",
@@ -31396,7 +31396,7 @@
       "toplandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -31444,7 +31444,7 @@
       "kaynaklanmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -31469,7 +31469,7 @@
       "il",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "O",
@@ -31505,7 +31505,7 @@
       "gerçekleşmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "I-EVENT",
@@ -31540,7 +31540,7 @@
       "ilçedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -31569,7 +31569,7 @@
       "fonksiyondur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -31606,7 +31606,7 @@
       "olur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -31644,7 +31644,7 @@
       "sağlamıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -31684,7 +31684,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-PERSON",
@@ -31746,7 +31746,7 @@
       "yapılır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -31802,7 +31802,7 @@
       "yapmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-ORDINAL",
       "O",
@@ -31837,7 +31837,7 @@
       "bulunmaktadadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "O",
@@ -31874,7 +31874,7 @@
       "şair",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -31904,7 +31904,7 @@
       "sahiptir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "O",
@@ -31939,7 +31939,7 @@
       "götürür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -31983,7 +31983,7 @@
       "kullanırlar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -32017,7 +32017,7 @@
       "işlemektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "O",
@@ -32054,7 +32054,7 @@
       "alır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -32095,7 +32095,7 @@
       "sınıflandırılabilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -32130,7 +32130,7 @@
       "açmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -32171,7 +32171,7 @@
       "çıkarmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-PERSON",
@@ -32215,7 +32215,7 @@
       "kırmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-ORG",
@@ -32252,7 +32252,7 @@
       "geldi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -32285,7 +32285,7 @@
       "Rejects",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -32335,7 +32335,7 @@
       "gelir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -32388,7 +32388,7 @@
       "dayanabilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -32423,7 +32423,7 @@
       "birleşme",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "B-CARDINAL",
       "B-DATE",
@@ -32452,7 +32452,7 @@
       "grubudur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-DATE",
@@ -32489,7 +32489,7 @@
       "çözünür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -32527,7 +32527,7 @@
       "yapmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -32570,7 +32570,7 @@
       "açıkladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -32622,7 +32622,7 @@
       "geçmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -32665,7 +32665,7 @@
       "oluştururdu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "O",
       "O",
@@ -32705,7 +32705,7 @@
       "başladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -32742,7 +32742,7 @@
       "yapılmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-DATE",
       "I-DATE",
@@ -32786,7 +32786,7 @@
       "kurulmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-PERSON",
@@ -32832,7 +32832,7 @@
       "kaydedilmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-GPE",
       "O",
@@ -32874,7 +32874,7 @@
       "sanatçısı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -32937,7 +32937,7 @@
       "türüdür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -32990,7 +32990,7 @@
       "aldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -33035,7 +33035,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-GPE",
@@ -33097,7 +33097,7 @@
       "kalmışlardı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-DATE",
@@ -33146,7 +33146,7 @@
       "tabanlıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -33183,7 +33183,7 @@
       "alınmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -33232,7 +33232,7 @@
       "silahlandırılmıştı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PRODUCT",
       "I-PRODUCT",
       "I-PRODUCT",
@@ -33274,7 +33274,7 @@
       "aldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-EVENT",
       "I-EVENT",
@@ -33310,7 +33310,7 @@
       "canlandırdı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -33348,7 +33348,7 @@
       "sürdürmektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-ORG",
@@ -33387,7 +33387,7 @@
       "kırmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -33433,7 +33433,7 @@
       "sürdü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "O",
@@ -33472,7 +33472,7 @@
       "geliştirdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -33505,7 +33505,7 @@
       "biridir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "I-FAC",
@@ -33557,7 +33557,7 @@
       "albümleri",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -33608,7 +33608,7 @@
       "aldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-CARDINAL",
       "O",
       "O",
@@ -33640,7 +33640,7 @@
       "avlar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -33667,7 +33667,7 @@
       "grubudur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -33696,7 +33696,7 @@
       "kaydetmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-CARDINAL",
@@ -33743,7 +33743,7 @@
       "almıştık",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -33787,7 +33787,7 @@
       "edilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -33829,7 +33829,7 @@
       "açmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -33888,7 +33888,7 @@
       "değiştirildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -33948,7 +33948,7 @@
       "kaynağıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -34000,7 +34000,7 @@
       "geçirildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "B-DATE",
       "I-DATE",
@@ -34045,7 +34045,7 @@
       "şarkıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -34081,7 +34081,7 @@
       "sahiptir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -34121,7 +34121,7 @@
       "düştü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -34165,7 +34165,7 @@
       "bulunmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -34211,7 +34211,7 @@
       "direktör",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -34273,7 +34273,7 @@
       "getirildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -34336,7 +34336,7 @@
       "festivalidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "I-EVENT",
@@ -34379,7 +34379,7 @@
       "tedavileridir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -34422,7 +34422,7 @@
       "olur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "B-DATE",
       "I-DATE",
@@ -34486,7 +34486,7 @@
       "zorundaydılar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -34539,7 +34539,7 @@
       "cinsdir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -34575,7 +34575,7 @@
       "istedi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -34608,7 +34608,7 @@
       "almışlardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "I-EVENT",
@@ -34642,7 +34642,7 @@
       "girdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -34684,7 +34684,7 @@
       "kaldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -34727,7 +34727,7 @@
       "söyler",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -34762,7 +34762,7 @@
       "şehir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "O",
@@ -34801,7 +34801,7 @@
       "gösteriliyor",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "I-ORG",
@@ -34847,7 +34847,7 @@
       "yayımlandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -34887,7 +34887,7 @@
       "olur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "B-TITLE",
       "B-PERSON",
@@ -34920,7 +34920,7 @@
       "oğludur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-PERSON",
@@ -34969,7 +34969,7 @@
       "saptanmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -35021,7 +35021,7 @@
       "kimyager",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -35051,7 +35051,7 @@
       "değildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "O",
@@ -35081,7 +35081,7 @@
       "almıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -35115,7 +35115,7 @@
       "inanılır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -35152,7 +35152,7 @@
       "etkilenir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -35193,7 +35193,7 @@
       "başkentidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -35242,7 +35242,7 @@
       "belirtir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-LOC",
       "O",
       "O",
@@ -35287,7 +35287,7 @@
       "alır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-QUANTITY",
@@ -35336,7 +35336,7 @@
       "başlanmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -35379,7 +35379,7 @@
       "oynamaktadir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -35405,7 +35405,7 @@
       "nemlidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-LOC",
       "I-LOC",
       "I-LOC",
@@ -35441,7 +35441,7 @@
       "konumundadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -35485,7 +35485,7 @@
       "adaydır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -35522,7 +35522,7 @@
       "olmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "O",
       "B-ORG",
@@ -35550,7 +35550,7 @@
       "yoktur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -35579,7 +35579,7 @@
       "karakter",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -35627,7 +35627,7 @@
       "geçirmişti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-TITLE",
       "B-PERSON",
       "I-PERSON",
@@ -35681,7 +35681,7 @@
       "ettiler",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -35719,7 +35719,7 @@
       "duyurmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "O",
       "O",
@@ -35749,7 +35749,7 @@
       "yapmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-ORG",
@@ -35789,7 +35789,7 @@
       "diyecekti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -35828,7 +35828,7 @@
       "göndermiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-EVENT",
       "I-EVENT",
@@ -35857,7 +35857,7 @@
       "geçti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "I-GPE",
@@ -35887,7 +35887,7 @@
       "bulunmaktadir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -35921,7 +35921,7 @@
       "dir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-CARDINAL",
       "O",
@@ -35975,7 +35975,7 @@
       "olacaktı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -36045,7 +36045,7 @@
       "büyüdüm",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -36089,7 +36089,7 @@
       "Yahoo",
       "!"
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-ORG",
@@ -36111,7 +36111,7 @@
       "olmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -36149,7 +36149,7 @@
       "aldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -36210,7 +36210,7 @@
       "oldu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -36274,7 +36274,7 @@
       "vardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -36320,7 +36320,7 @@
       "çıktı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-NORP",
       "O",
@@ -36364,7 +36364,7 @@
       "başardı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "B-TITLE",
       "B-PERSON",
@@ -36411,7 +36411,7 @@
       "başladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-ORG",
@@ -36465,7 +36465,7 @@
       "çağrılmalıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -36514,7 +36514,7 @@
       "yerleşti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -36550,7 +36550,7 @@
       "kurmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -36584,7 +36584,7 @@
       "sahiptir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-ORG",
       "I-ORG",
@@ -36629,7 +36629,7 @@
       "kavuştu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-TITLE",
       "I-TITLE",
       "B-PERSON",
@@ -36684,7 +36684,7 @@
       "yaptı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-PERSON",
       "O",
@@ -36736,7 +36736,7 @@
       "söylenir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-NORP",
@@ -36773,7 +36773,7 @@
       "algılanamaz",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -36805,7 +36805,7 @@
       "katılmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-ORG",
@@ -36860,7 +36860,7 @@
       "görülmektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -36906,7 +36906,7 @@
       "ölmüştür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "O",
@@ -36953,7 +36953,7 @@
       "birleşecektir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -37005,7 +37005,7 @@
       "döner",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-EVENT",
@@ -37039,7 +37039,7 @@
       "kalır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -37103,7 +37103,7 @@
       "söyler",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -37175,7 +37175,7 @@
       "dönmüştür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-PERSON",
@@ -37226,7 +37226,7 @@
       "verdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-PERSON",
@@ -37271,7 +37271,7 @@
       "belediyesi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "O",
@@ -37313,7 +37313,7 @@
       ")",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -37351,7 +37351,7 @@
       "almıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "I-EVENT",
@@ -37394,7 +37394,7 @@
       "edilmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "I-EVENT",
@@ -37445,7 +37445,7 @@
       "şehirdir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -37489,7 +37489,7 @@
       "aldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-WORK_OF_ART",
@@ -37546,7 +37546,7 @@
       "verilmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -37611,7 +37611,7 @@
       "dizisidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "O",
@@ -37670,7 +37670,7 @@
       "üretti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -37722,7 +37722,7 @@
       "benzetilebilir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -37784,7 +37784,7 @@
       "biridir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "B-TITLE",
       "B-PERSON",
@@ -37838,7 +37838,7 @@
       "gruptur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "O",
       "B-GPE",
@@ -37873,7 +37873,7 @@
       "yöneltilmektedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "O",
@@ -37916,7 +37916,7 @@
       "Medenî'dir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -37953,7 +37953,7 @@
       "açıkladılar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -37990,7 +37990,7 @@
       "koyulur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -38033,7 +38033,7 @@
       "79",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -38079,7 +38079,7 @@
       "yapıldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -38114,7 +38114,7 @@
       "sanılır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-PERSON",
@@ -38137,7 +38137,7 @@
       "senaristi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "B-NORP",
@@ -38161,7 +38161,7 @@
       "oyuncusudur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-ORG",
       "I-ORG",
@@ -38198,7 +38198,7 @@
       "girmiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "B-DATE",
       "I-DATE",
@@ -38236,7 +38236,7 @@
       "kapsar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -38261,7 +38261,7 @@
       "basıldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-WORK_OF_ART",
@@ -38286,7 +38286,7 @@
       "boşaltılmıştır",
       ".."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "B-EVENT",
       "I-EVENT",
@@ -38307,7 +38307,7 @@
       "sağlar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -38337,7 +38337,7 @@
       "göstergesidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -38369,7 +38369,7 @@
       "büyüdü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-GPE",
@@ -38408,7 +38408,7 @@
       "cumhuriyettir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "I-GPE",
@@ -38447,7 +38447,7 @@
       "oyuncusudur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "B-NORP",
@@ -38478,7 +38478,7 @@
       "oynadı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "I-ORG",
       "B-CARDINAL",
@@ -38509,7 +38509,7 @@
       "Şehridir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-LANGUAGE",
       "I-LANGUAGE",
       "O",
@@ -38527,7 +38527,7 @@
       "yapımıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-ORG",
       "O",
       "O"
@@ -38556,7 +38556,7 @@
       "etti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -38590,7 +38590,7 @@
       "grubu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -38631,7 +38631,7 @@
       "sorumlusudur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -38675,7 +38675,7 @@
       "güneydoğusundadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -38720,7 +38720,7 @@
       "seçildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "O",
@@ -38773,7 +38773,7 @@
       "doğdu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-TITLE",
       "I-TITLE",
       "I-TITLE",
@@ -38811,7 +38811,7 @@
       "albümüdür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "O",
       "B-NORP",
@@ -38834,7 +38834,7 @@
       "Müzesi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-FAC",
       "I-FAC",
       "I-FAC",
@@ -38882,7 +38882,7 @@
       "vardır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "B-PERSON",
       "O",
@@ -38928,7 +38928,7 @@
       "Denizaltı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O"
     ]
@@ -38955,7 +38955,7 @@
       "türü",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -38996,7 +38996,7 @@
       "etti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -39042,7 +39042,7 @@
       "katıldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -39104,7 +39104,7 @@
       "kullanılmaktadır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -39152,7 +39152,7 @@
       "edinir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -39181,7 +39181,7 @@
       "kurdu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "B-ORG",
@@ -39211,7 +39211,7 @@
       "geçirdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -39235,7 +39235,7 @@
       "oyunudur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PRODUCT",
       "I-PRODUCT",
       "I-PRODUCT",
@@ -39269,7 +39269,7 @@
       "düşmüşlerdir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "I-GPE",
@@ -39309,7 +39309,7 @@
       "isimdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "B-DATE",
       "O",
@@ -39348,7 +39348,7 @@
       "kaldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -39394,7 +39394,7 @@
       "çıkar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -39455,7 +39455,7 @@
       "getirdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -39511,7 +39511,7 @@
       "çeker",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-TITLE",
       "I-TITLE",
       "B-PERSON",
@@ -39549,7 +39549,7 @@
       "giymiştir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-GPE",
@@ -39591,7 +39591,7 @@
       "sahiptir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "B-GPE",
       "O",
@@ -39641,7 +39641,7 @@
       "biridir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "B-GPE",
@@ -39687,7 +39687,7 @@
       "etti",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "B-FAC",
       "I-FAC",
@@ -39731,7 +39731,7 @@
       "bucaktır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "I-GPE",
@@ -39781,7 +39781,7 @@
       "uçaktır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PRODUCT",
       "I-PRODUCT",
       "I-PRODUCT",
@@ -39823,7 +39823,7 @@
       "değişir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -39857,7 +39857,7 @@
       "ölmüştür",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -39883,7 +39883,7 @@
       "yoktur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -39929,7 +39929,7 @@
       "İlkeleri",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -39993,7 +39993,7 @@
       "olmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-PERSON",
@@ -40037,7 +40037,7 @@
       ")",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
@@ -40066,7 +40066,7 @@
       "başladı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "B-ORG",
@@ -40096,7 +40096,7 @@
       "bulundu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-TITLE",
       "I-TITLE",
       "B-PERSON",
@@ -40131,7 +40131,7 @@
       "diledi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-ORG",
       "I-ORG",
@@ -40175,7 +40175,7 @@
       "asfaltlıdır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "O",
       "O",
@@ -40213,7 +40213,7 @@
       "okudu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -40242,7 +40242,7 @@
       "olmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "B-ORG",
       "O",
@@ -40278,7 +40278,7 @@
       "gözlenir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -40310,7 +40310,7 @@
       "canlandırıyordu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -40347,7 +40347,7 @@
       "uzanır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -40392,7 +40392,7 @@
       "geldi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -40425,7 +40425,7 @@
       "tanınır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -40462,7 +40462,7 @@
       "aldı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-DATE",
       "I-DATE",
@@ -40507,7 +40507,7 @@
       "sahiptir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "I-GPE",
       "O",
@@ -40544,7 +40544,7 @@
       "kazandı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "I-EVENT",
@@ -40570,7 +40570,7 @@
       "enternasyonalist",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-NORP",
       "O",
       "O",
@@ -40595,7 +40595,7 @@
       "oyuncusu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -40630,7 +40630,7 @@
       "eder",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "B-PERSON",
       "O",
@@ -40664,7 +40664,7 @@
       "çıkmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -40709,7 +40709,7 @@
       "getirildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -40755,7 +40755,7 @@
       "oynar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -40787,7 +40787,7 @@
       "gönderdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -40820,7 +40820,7 @@
       "üyesi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -40852,7 +40852,7 @@
       "yaptı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -40883,7 +40883,7 @@
       "edecektir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -40915,7 +40915,7 @@
       "ederdi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -40954,7 +40954,7 @@
       "muharebedir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-EVENT",
       "I-EVENT",
       "I-EVENT",
@@ -40995,7 +40995,7 @@
       "birisidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "O",
@@ -41037,7 +41037,7 @@
       "bestecidir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",
@@ -41084,7 +41084,7 @@
       "seçer",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -41120,7 +41120,7 @@
       ";",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-LANGUAGE",
       "I-LANGUAGE",
       "O",
@@ -41142,7 +41142,7 @@
       "sunmuştur",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "B-PERSON",
       "I-PERSON",
@@ -41174,7 +41174,7 @@
       "uyandırır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-LANGUAGE",
       "I-LANGUAGE",
       "O",
@@ -41224,7 +41224,7 @@
       "belediyesi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-GPE",
       "O",
       "B-GPE",
@@ -41268,7 +41268,7 @@
       "Posey'dir",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -41294,7 +41294,7 @@
       "tanınmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-WORK_OF_ART",
       "I-WORK_OF_ART",
       "O",
@@ -41319,7 +41319,7 @@
       "oyuncusu",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "O",
@@ -41346,7 +41346,7 @@
       "Corporation'dır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "B-ORG",
@@ -41367,7 +41367,7 @@
       "değildi",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "O",
       "O",
@@ -41409,7 +41409,7 @@
       "kalmıştır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -41461,7 +41461,7 @@
       "kullanılır",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "O",
       "O",
       "O",
@@ -41503,7 +41503,7 @@
       "başladılar",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-DATE",
       "I-DATE",
       "I-DATE",
@@ -41537,7 +41537,7 @@
       "politikacı",
       "."
     ],
-    "pos_tags": [
+    "ner_tags": [
       "B-PERSON",
       "I-PERSON",
       "I-PERSON",

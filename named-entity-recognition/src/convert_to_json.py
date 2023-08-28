@@ -14,7 +14,7 @@ def process_conll(f, delim='\t', sentence_id_prefix=None):
                 examples.append({
                     'id': f"{sentence_id_prefix}-{sentence_id}",
                     'tokens': tokens,
-                    'pos_tags': ner_tags
+                    'ner_tags': ner_tags
                 })
                 tokens = []
                 ner_tags = []
@@ -28,7 +28,7 @@ def process_conll(f, delim='\t', sentence_id_prefix=None):
         examples.append({
             'id': f"{sentence_id_prefix}-{sentence_id}",
             'tokens': tokens,
-            'pos_tags': ner_tags
+            'ner_tags': ner_tags
         })
 
     return examples
