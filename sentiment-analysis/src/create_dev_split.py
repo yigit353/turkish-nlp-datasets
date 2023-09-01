@@ -5,7 +5,7 @@ import random
 import json
 
 
-def split_train_dev(samples, dev_size, seed=None):
+def split_train_dev(samples, dev_size, seed):
     if seed is not None:
         random.seed(seed)
 
@@ -14,21 +14,18 @@ def split_train_dev(samples, dev_size, seed=None):
     return [samples[dev_size:], samples[:dev_size]]
 
 
-def split_train_dev_all(positive_samples, negative_samples, neutral_samples, ratio=0.1, seed=None):
-    positive_splits = split_train_dev(positive_samples, int(round(len(positive_samples) * 0.1)), seed)
-    negative_splits = split_train_dev(negative_samples, int(round(len(negative_samples) * 0.1)), seed)
-    neutral_splits = split_train_dev(neutral_samples, int(round(len(neutral_samples) * 0.1)), seed)
+def split_train_dev_all(positive_samples, negative_samples, ratio=0.1, seed=None):
+    positive_splits = split_train_dev(positive_samples, int(round(len(positive_samples) * ratio)), seed)
+    negative_splits = split_train_dev(negative_samples, int(round(len(negative_samples) * ratio)), seed)
 
     train_samples = []
     dev_samples = []
 
     train_samples.extend(positive_splits[0])
     train_samples.extend(negative_splits[0])
-    train_samples.extend(neutral_splits[0])
 
     dev_samples.extend(positive_splits[1])
     dev_samples.extend(negative_splits[1])
-    dev_samples.extend(neutral_splits[1])
 
     return train_samples, dev_samples
 
@@ -52,17 +49,14 @@ if __name__ == '__main__':
 
         positive_samples = []
         negative_samples = []
-        neutral_samples = []
 
         for index, row in enumerate(rows):
             if row[1] == 'Positive':
                 positive_samples.append(row)
             elif row[1] == 'Negative':
                 negative_samples.append(row)
-            elif row[1] == 'Neutral':
-                neutral_samples.append(row)
 
-        train_samples, dev_samples = split_train_dev_all(positive_samples, negative_samples, neutral_samples,
+        train_samples, dev_samples = split_train_dev_all(positive_samples, negative_samples,
                                                          args.ratio, args.seed)
 
         # Save train samples
