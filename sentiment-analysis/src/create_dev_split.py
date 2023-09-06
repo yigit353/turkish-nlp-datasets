@@ -2,7 +2,6 @@ import argparse
 import csv
 import os
 import random
-import json
 
 
 def split_train_dev(samples, dev_size, seed):
